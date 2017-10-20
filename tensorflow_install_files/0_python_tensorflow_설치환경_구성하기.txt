@@ -1,0 +1,43 @@
+1. python 3 설치하기
+
+install python-3.6.3-amd64.exe
+
+커스텀 형식으로 전체선택
+설치경로 간단한 이름으로 바꿔서 설치한다.
+
+2. tensorflow 설치하기
+
+pip install tensorflow
+
+파이선 인스톨 펙키지(python install package) 명령어로 텐스플로우 설치
+gpu 사용하는 텐서플로우는 복잡해서 설치 못했다.
+
+3. spyder 3 개발 ide 설치하기
+
+pip install spyder
+
+4. 메틀렙 과 유사한 유틸리티 설치하기
+
+pip install matplotlib
+
+5. microsoft visual c++ redistribute update 3 설치하기
+
+vc_redist.x64.exe
+
+설치한다.
+
+6. numpy 삭제하기
+
+pip uninstall numpy
+
+7. 프리빌드된 numpy + mkl 설치하기
+
+pip install numpy-1.13.3+mkl-cp36-cp36m-win_amd64.whl
+
+8. 프리빌드된 scipy 설치하기 
+
+pip install scipy-0.19.1-cp36-cp36m-win_amd64.whl
+
+9. pillow 설치하기
+
+pip install pillow
